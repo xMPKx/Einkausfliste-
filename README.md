@@ -28,3 +28,11 @@ Das Programm enthält die folgenden Funktionen:
      - Programm beenden
 
 
+zum zweiten Code "mit Budget"
+
+Dieses Python-Programm hilft dabei, eine Einkaufsliste basierend auf einem bestimmten Budget zu erstellen. Es berechnet die Gesamtkosten für Artikel, die innerhalb des Budgets gekauft werden können, und listet die Artikel auf, die nicht erschwinglich sind.
+
+Funktionen:
+Einkaufsliste: Eine vordefinierte Einkaufsliste mit Artikelpreisen und benötigten Mengen.
+Budgetverwaltung: Die Funktion kauf(einkaufsliste, budget) berechnet die Gesamtkosten der kaufbaren Artikel und aktualisiert das verbleibende Budget.
+Ergebnisse: Die Funktion gibt eine Liste der kaufbaren Artikel, die Gesamtkosten, das verbleibende Budget und die nicht erschwinglichen Artikel zurück.
